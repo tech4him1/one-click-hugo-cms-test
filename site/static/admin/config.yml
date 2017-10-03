@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: tech4him1/one-click-hugo-cms-test
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
